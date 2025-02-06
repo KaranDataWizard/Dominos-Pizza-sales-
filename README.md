@@ -31,7 +31,7 @@ The dashboard provides actionable insights into sales performance, customer pref
 
 4. **Revenue by Pizza Size**  
 
-![{23270563-F0BF-4592-8E3A-4A5FB2F728BD}](https://github.com/user-attachments/assets/abda59a0-2f27-4df0-a956-d769c4dfbcdc)
+![{E6ECFF1D-570D-41DE-B642-7C026BBB9FDF}](https://github.com/user-attachments/assets/2fae0a20-158d-49d0-8232-b9d11b443faa)
 
    - **Large (L)** pizzas dominate revenue (63.42K), followed by Medium (M: 44.52K).  
    - **Insight**: Customers prefer value-for-money sizes.  
